@@ -1,0 +1,2 @@
+# To-Do List Back-End Project
+This is the repository for the back-end of a to-do list application. It provides a RESTful API for managing tasks, database integration for persistent data storage, user authentication implementation to protect sensitive routes, and task updates with route validation. Additionally, this project includes instructions on how to deploy the back-end to make it publicly accessible.
